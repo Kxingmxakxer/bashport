@@ -3,7 +3,7 @@ A port scanner in bash script is a program that uses the bash shell to scan port
 
 **To use this Port Scanner**
 Clone this repository to your local machine:
-sudo git clone https:https://github.com/AaronSVarghese/bashport
+sudo git clone https:https://github.com/SidharthSumitraGireesh/bashport
 cd port-scanner/
 Make sure you have execute permissions for the script:
 sudo chmod +x port_scanner.sh
